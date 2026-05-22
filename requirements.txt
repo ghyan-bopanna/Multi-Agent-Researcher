@@ -1,0 +1,40 @@
+# Core LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+
+# LCEL / Runnable support (comes with langchain-core but keep explicit)
+langchainhub
+
+# Google Gemini API
+google-generativeai
+
+# Tavily search tool
+tavily-python
+
+# Web scraping
+beautifulsoup4
+requests
+lxml
+
+# Async + performance
+aiohttp
+httpx
+
+# Data handling
+pydantic
+python-dotenv
+
+# Utilities
+tenacity
+tqdm
+
+# JSON / parsing helpers
+orjson
+
+# Logging / debugging
+rich
+
+# SIMPLE UI
+streamlit
